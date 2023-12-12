@@ -1,5 +1,5 @@
 ### Hi there 👋
-| Name | Description | Open source | Technologies |
+| Project name | Description | Open source? | Technologies |
 | --- | --- | --- | --- |
 | Sketch2App | Generate app sandbox from sketch wireframe of app | `true` | `Next` `React` `GPT4 vision` |
 | Sketch2App VS Code Extension | Generate app sandbox from sketch wireframe of app  | `false` | `Javascript` |
