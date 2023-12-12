@@ -6,7 +6,7 @@
 | Sketch2App | Generate app sandbox from sketch wireframe of app | true | `Next` `React` `GPT4 vision` |
 | Sketch2App VS Code Extension | Generate app sandbox from sketch wireframe of app  | false | `Javascript` |
 | Qashboard | Hides the title of your stats card. |  false | `Next` `React` `MongoDB` `Langchain` |
-| Xperience Shopping | Sets the card's width manually. | live| false | React / `GPT4` `Chrome Extension` |
+| Xperience Shopping | Sets the card's width manually. |  false | React / `GPT4` `Chrome Extension` |
 | Clothware | Hides the rank and automatically resizes the card width. | true | `Python` `Tensorflow` |
 | Fridge2Food | Shows alternative rank icon (i.e. github, percentile or default). | true | `React Native` `GPT4 vision` |
 | #BlackOwned | Shows icons near all stats. | false | `React Native` `Firebase` |
