@@ -1,5 +1,5 @@
 ### Hi there 👋
-<h3>🌎 Current projects:</h3>
+<h3>My recent projects:</h3>
 
 | Name | Description | Demo Link | Open Source |
 | --- | --- | --- | --- |
