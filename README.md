@@ -1,16 +1,18 @@
 ### Hi there 👋
 <h3>My recent projects:</h3>
 
-| Name | Description | Demo Link | Open Source | Stack |
+| Name | Description | Link | Open source | Project type |
 | --- | --- | --- | --- | --- |
-| `Sketch2App` | Generate app sandbox from sketch wireframe of app | LINK | `true` | Next / React / GPT4 vision |
-| `Sketch2App VS Code Extension` | Generate app sandbox from sketch wireframe of app | LINK | `false` | Javascript |
-| `Qashboard` | Hides the title of your stats card. | Link | `false` | Next / React / MongoDB / Langchain |
-| `Xperience Shopping` | Sets the card's width manually. | LINK| `false` | React / GPT4 |
-| `Clothware` | Hides the rank and automatically resizes the card width. | LINK | `true` | Python / Tensorflow |
-| `Fridge2Food` | Shows alternative rank icon (i.e. `github`, `percentile` or `default`). | LINK | `true` | React Native / GPT4 vision |
-| `#BlackOwned` | Shows icons near all stats. | LINK | `false` | React Native |
-| `MiMotion Pro` | Count total commits instead of just the current year commits. | LINK | `false` | Flutter / DeepMotion / in3D |
+| `Sketch2App` | Generate app sandbox from sketch wireframe of app | live | `true` | Next / React / GPT4 vision |
+| `Sketch2App VS Code Extension` | Generate app sandbox from sketch wireframe of app | live | `false` | Javascript |
+| `Qashboard` | Hides the title of your stats card. | live | `false` | Next / React / MongoDB / Langchain |
+| `Xperience Shopping` | Sets the card's width manually. | live| `false` | React / GPT4 / Chrome Extension |
+| `Clothware` | Hides the rank and automatically resizes the card width. | live | `true` | Python / Tensorflow |
+| `Fridge2Food` | Shows alternative rank icon (i.e. `github`, `percentile` or `default`). | live | `true` | React Native / GPT4 vision |
+| `#BlackOwned` | Shows icons near all stats. | live | `false` | React Native / Firebase |
+| `MiMotion Pro` | Count total commits instead of just the current year commits. | live | `false` | Flutter / DeepMotion / in3D / Firebase |
+| `Dappy` | Count total commits instead of just the current year commits. | live | `true` | Flutter / Firebase |
+| `Soundbite` | Count total commits instead of just the current year commits. | live | `true` | Swift / iMessage Extension |
 
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=true" width="100%">
 <!-- <h3>📈 Stats</h3> -->
