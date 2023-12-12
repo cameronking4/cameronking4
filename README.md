@@ -1,15 +1,16 @@
 ### Hi there 👋
 <h3>My recent projects:</h3>
 
-| Name | Description | Demo Link | Open Source |
+| Name | Description | Demo Link | Open Source | Stack
 | --- | --- | --- | --- |
-| `Sketch2App` | Generate app sandbox from sketch wireframe of app | LINK | `true` |
-| `Qashboard` | Hides the title of your stats card. | Link | `false` |
-| `Xperience Shopping` | Sets the card's width manually. | LINK| `false` |
-| `Clothware` | Hides the rank and automatically resizes the card width. | LINK | `true` |
-| `Fridge2Food` | Shows alternative rank icon (i.e. `github`, `percentile` or `default`). | LINK | `true` |
-| `#BlackOwned` | Shows icons near all stats. | LINK | `false` |
-| `MiMotion Pro` | Count total commits instead of just the current year commits. | LINK | `false` |
+| `Sketch2App` | Generate app sandbox from sketch wireframe of app | LINK | `true` | Next / React / GPT4 vision |
+| `Sketch2App VS Code Extension` | Generate app sandbox from sketch wireframe of app | LINK | `false` | Javascript |
+| `Qashboard` | Hides the title of your stats card. | Link | `false` | Next / React / MongoDB / Langchain |
+| `Xperience Shopping` | Sets the card's width manually. | LINK| `false` | React / GPT4 |
+| `Clothware` | Hides the rank and automatically resizes the card width. | LINK | `true` | Python / Tensorflow |
+| `Fridge2Food` | Shows alternative rank icon (i.e. `github`, `percentile` or `default`). | LINK | `true` | React Native / GPT4 vision |
+| `#BlackOwned` | Shows icons near all stats. | LINK | `false` | React Native |
+| `MiMotion Pro` | Count total commits instead of just the current year commits. | LINK | `false` | Flutter / DeepMotion / in3D |
 
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=true" width="100%">
 <!-- <h3>📈 Stats</h3> -->
