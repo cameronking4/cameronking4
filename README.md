@@ -1,7 +1,4 @@
 ### Hi there 👋
-I'm either building projects or learning something just about every day. I post about them on LinkedIn. Here on my GitHub you'll find my open source projects :)
-
-
 <h3>🌎 Current projects:</h3>
 
 | Name | Description | Demo Link | Open Source |
