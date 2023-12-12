@@ -3,13 +3,13 @@
 | --- | --- | --- | --- |
 | Sketch2App | Generate app sandbox from sketch wireframe of app | `Repo` | `Next` `React` `GPT4 vision` |
 | Sketch2App VS Code Extension | Generate app sandbox from sketch wireframe of app  | `Buy here` | `Javascript` |
-| Qashboard | Hides the title of your stats card. |  `false` | `Next` `React` `MongoDB` `Langchain` |
+| Qashboard | Hides the title of your stats card. | `Buy here` | `Next` `React` `MongoDB` `Langchain` |
 | Xperience Shopping | Sets the card's width manually. |  `Buy here` | `React` `GPT4` `Chrome Extension` `Shopify App` |
-| Clothware | Hides the rank and automatically resizes the card width. | `true` | `Python` `Tensorflow` |
+| Clothware | Hides the rank and automatically resizes the card width. | `Repo` | `Python` `Tensorflow` |
 | Fridge2Food | Shows alternative rank icon (i.e. github, percentile or default). | `Buy here` | `React Native` `GPT4 vision` |
 | Support+ | Shows alternative rank icon (i.e. github, percentile or default). | `Buy here` | `React Native` `GPT4 vision` |
 | #BlackOwned | Shows icons near all stats. | `Repo` | `React Native` `Firebase` |
-| MiMotion Pro | Count total commits instead of just the current year commits. | `false` | `Flutter`  `DeepMotion` `in3D` `Firebase` |
+| MiMotion Pro | Count total commits instead of just the current year commits. | `N/A` | `Flutter`  `DeepMotion` `in3D` `Firebase` |
 | Dappy | Count total commits instead of just the current year commits. |  `Repo` | `Flutter` `Firebase` |
 | Soundbite | Count total commits instead of just the current year commits. | `Repo` | `Swift` `iMessage Extension` |
 
