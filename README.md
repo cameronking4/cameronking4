@@ -1,10 +1,34 @@
 ### Hi there 👋
+I'm either building projects or learning something just about every day. I post about them on LinkedIn. Here on my GitHub you'll find my open source projects :)
+
+
+<h3>🌎 Current projects:</h3>
+
+| Name | Description | Demo Link | Open Source |
+| --- | --- | --- | --- |
+| `Sketch2App` | Generate app sandbox from sketch wireframe of app | LINK | `true` |
+| `Qashboard` | Hides the title of your stats card. | Link | `false` |
+| `Xperience Shopping` | Sets the card's width manually. | LINK| `false` |
+| `Clothware` | Hides the rank and automatically resizes the card width. | LINK | `true` |
+| `Fridge2Food` | Shows alternative rank icon (i.e. `github`, `percentile` or `default`). | LINK | `true` |
+| `#BlackOwned` | Shows icons near all stats. | LINK | `false` |
+| `MiMotion Pro` | Count total commits instead of just the current year commits. | LINK | `false` |
+
+<img src="Rainbow.gif" width="100%">
+<h3>📈 Stats</h3>
+
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=cameronking4&rank_icon=percentile&count_private=true&include_all_commits=true&show_icons=true&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/><img src="http://github-readme-streak-stats.herokuapp.com?user=cameronking4&theme=dark&hide_border=true&background=161B22&ring=50A6FF&fire=FF9022&currStreakLabel=FFFFFF">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronking4&langs_count=10&hide_border=true&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5&card_width=745"/>
+</div>
+
+<div>
+  <img src="Gradients.png" alt="Gradients" width="100%">
+</div>
+
+<img src="Rainbow.gif" width="100%">
 
 <!--
-**cameronking4/cameronking4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -14,3 +38,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
