@@ -1,6 +1,4 @@
 ### Hi there 👋
-<h3>My recent projects:</h3>
-
 | Name | Description | Open source | Technologies |
 | --- | --- | --- | --- |
 | Sketch2App | Generate app sandbox from sketch wireframe of app | `true` | `Next` `React` `GPT4 vision` |
