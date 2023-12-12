@@ -1,8 +1,8 @@
 ### Hi there 👋
 <h3>My recent projects:</h3>
 
-| Name | Description | Demo Link | Open Source | Stack
-| --- | --- | --- | --- |
+| Name | Description | Demo Link | Open Source | Stack |
+| --- | --- | --- | --- | --- |
 | `Sketch2App` | Generate app sandbox from sketch wireframe of app | LINK | `true` | Next / React / GPT4 vision |
 | `Sketch2App VS Code Extension` | Generate app sandbox from sketch wireframe of app | LINK | `false` | Javascript |
 | `Qashboard` | Hides the title of your stats card. | Link | `false` | Next / React / MongoDB / Langchain |
