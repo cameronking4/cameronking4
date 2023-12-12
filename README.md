@@ -1,5 +1,5 @@
 ### Hi there 👋
-| Project name | Description | Source code | Technologies |
+| Project (link) | Description | Source code | Technologies |
 | --- | --- | --- | --- |
 | Sketch2App | Generate app sandboxes from a hand drawn sketch / wireframe of app | `Repo` | `Next` `React` `GPT4 vision` |
 | Sketch2App VS Code Extension | Use Sketch2App directly in your VS Code Editor. Create new apps or a new component using the commands.  | `Buy here` | `Javascript` |
