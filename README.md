@@ -1,4 +1,5 @@
 ### Hi there 👋
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronking4&label=Viewers&color=000000&style=flat" alt="cameronking4" /> </p>
 | Project (link) | Description | Source code | Technologies |
 | --- | --- | --- | --- |
 | Sketch2App | Generate app sandboxes from a hand drawn sketch / wireframe of app | `Repo` | `Next` `React` `GPT4 vision` |
@@ -15,7 +16,6 @@
 | Soundbite | An extension to make dubs of your favorite memes / reels in iMessage  | `Repo` | `Swift` `iMessage Extension` |
 
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=`true`" width="100%">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronking4&label=Viewers&color=000000&style=flat" alt="cameronking4" /> </p>
 <!-- <h3>📈 Stats</h3> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=cameronking4&rank_icon=percentile&count_private=`true`&include_all_commits=`true`&show_icons=`true`&hide_border=`true`&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/> -->
 <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cameronking4&langs_count=10&hide_border=`true`&bg_color=161B22&text_color=c9d1d9&title_color=50a6ff&icon_color=3572a5"/>
