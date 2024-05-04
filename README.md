@@ -4,9 +4,9 @@
 | PaywallmyGPT | Easiest way to monetize your custom GPT for publishing in OpenAI's GPT Store | `Subscribe` | `Next.js` |
 | Sketch2App VS Code Extension | Use Sketch2App directly in your VS Code Editor. Create new apps or a new component using the commands.  | `Subscribe` | `Javascript` |
 | Qashboard | AI enabled dashboard, allowing you to get a bird's eye view of all financial accounts. Connect accounts with Plaid and use AI chat to unlock insights into spend, transactions, budget and more. | `Buy here` | `Next` `React` `MongoDB` `Langchain` |
-| Xperience Shopping | The ultimate size assistant for online shopping. Submit a photo to create a realistic 3D avatar and calculate your body measurements. Using your profile, get exact recommedations for every product. |  `Buy here` | `React` `GPT4` `Chrome Extension` `Shopify App` |
-| Fridge2Food | Unlock ready-to-make recipe ideas from food items readily available in your fridge or pantry. Works for cocktails too! | `Buy here` | `React Native` `GPT4 vision` |
-| #BlackOwned | Discover black-owned businesses nearby. | `Repo` | `React Native` `Firebase` |
+| Xperience Shopping | The ultimate size assistant for online shopping. Submit a photo to create a realistic 3D avatar and calculate your body measurements. Using your profile, get exact recommedations for every product. |  `Download` | `React` `GPT4` `Chrome Extension` `Shopify App` |
+| Fridge2Food | Unlock ready-to-make recipe ideas from food items readily available in your fridge or pantry. Works for cocktails too! | `Download` | `React Native` `GPT4 vision` |
+| #BlackOwned | Discover black-owned businesses nearby. | `Download` | `React Native` `Firebase` |
 | MiMotion Pro | Create a 3D avatar and animate with a reference video. The app allows you to make a catalog of avatars and animations to view in 3D or AR. | `N/A` | `Flutter`  `DeepMotion` `in3D` `Firebase` |
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=`true`" width="100%">
 <!-- <h3>📈 Stats</h3> -->
