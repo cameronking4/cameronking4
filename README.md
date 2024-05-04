@@ -1,8 +1,8 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronking4&label=Viewers&color=000000&style=flat" alt="cameronking4" /></p> -->
-| Project (live) | Description | Source code | Technologies |
+| Project (live) | Description | CTA | Technologies |
 | --- | --- | --- | --- |
 | PaywallmyGPT | Easiest way to monetize your custom GPT for publishing in OpenAI's GPT Store | `Subscribe` | `Next.js` |
-| Sketch2App VS Code Extension | Use Sketch2App directly in your VS Code Editor. Create new apps or a new component using the commands.  | `Buy here` | `Javascript` |
+| Sketch2App VS Code Extension | Use Sketch2App directly in your VS Code Editor. Create new apps or a new component using the commands.  | `Subscribe` | `Javascript` |
 | Qashboard | AI enabled dashboard, allowing you to get a bird's eye view of all financial accounts. Connect accounts with Plaid and use AI chat to unlock insights into spend, transactions, budget and more. | `Buy here` | `Next` `React` `MongoDB` `Langchain` |
 | Xperience Shopping | The ultimate size assistant for online shopping. Submit a photo to create a realistic 3D avatar and calculate your body measurements. Using your profile, get exact recommedations for every product. |  `Buy here` | `React` `GPT4` `Chrome Extension` `Shopify App` |
 | Fridge2Food | Unlock ready-to-make recipe ideas from food items readily available in your fridge or pantry. Works for cocktails too! | `Buy here` | `React Native` `GPT4 vision` |
