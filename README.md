@@ -1,5 +1,5 @@
 <!--<p align="left"> <img src="https://komarev.com/ghpvc/?username=cameronking4&label=Viewers&color=000000&style=flat" alt="cameronking4" /></p> -->
-Born to be gangster but stuck in scrum
+Born to be gangster, stuck in scrum
 | Project (live) | Description | CTA | Technologies |
 | --- | --- | --- | --- |
 | [PaywallmyGPT](https://paywallmygpt.com) | Easiest way to monetize your custom GPT for publishing in OpenAI's GPT Store | `Download` | `Next.js` |
