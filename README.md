@@ -2,10 +2,10 @@
 Closed-source projects
 | Project (live) | Description | CTA | Technologies |
 | --- | --- | --- | --- |
-| [BuyMyRepo](https://buymyrepo.com) | Easiest way to sell access to your private github repos. Instantly start selling private UI libraries, app clones, starter templates, scripts, etc. for free. | `Download` | `Next14` |
-| [PaywallmyGPT](https://paywallmygpt.com) | Easiest way to monetize your custom GPT for publishing in OpenAI's GPT Store | `Download` | `Next14` |
-| [Sketch2App VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Sketch2App.sketch2app) | Use Sketch2App directly in your VS Code Editor. Create new apps or a new component using the commands.  | `Subscribe` | `Javascript` |
-| [Qashboard](https://qashboard.com) | AI powered personal finance dashboard, allowing you to get a bird's eye view of all financial accounts. Connect accounts with Plaid and use AI chat to unlock insights into spend, transactions, budget and more. | `Buy here` | `Next14` `MongoDB` `Langchain` |
+| [BuyMyRepo](https://buymyrepo.com) | Easiest way to sell access to your private github repos. Instantly start selling private UI libraries, app clones, starter templates, scripts, etc. for free. | `Download` | `Next14` `Stripe Connect` `Github APIs` |
+| [PaywallmyGPT](https://paywallmygpt.com) | Easiest way to monetize your custom GPT for publishing in OpenAI's GPT Store | `Download` | `Next14` `OpenAI` |
+| [Sketch2App VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Sketch2App.sketch2app) | Use Sketch2App directly in your VS Code Editor. Create new apps or a new component using the commands.  | `Subscribe` | `Javascript` `OpenAI` |
+| [Qashboard](https://qashboard.com) | AI powered personal finance dashboard, allowing you to get a bird's eye view of all financial accounts. Connect accounts with Plaid and use AI chat to unlock insights into spend, transactions, budget and more. | `Buy here` | `Next14` `MongoDB` `Langchain` `Vercel AI SDK` `Generative UI` `OpenAI`|
 | [Xperience Shopping](https://xperienceshopping.io) | The ultimate size assistant for online shopping. Submit a photo to create a realistic 3D avatar and calculate your body measurements. Using your profile, get exact recommedations for every product. |  `Download` | `React` `GPT4` `Chrome Extension` `Shopify App` |
 | [Fridge2Food](https://www.producthunt.com/posts/fridge2food-transform-food-into-meals) | Voted Top 10 of the day on Product Hunt. Generate recipe ideas from food items readily available in your fridge or pantry. Snap photo of table, fridge, pantry etc and get recipes in less than 30 seconds. Works for cocktails too! | `Download` | `React Native` `GPT4 vision` |
 | [#BlackOwned](https://apps.apple.com/us/app/blackowned/id1518900615) | Discover black-owned businesses nearby. | `Download` | `React Native` `Firebase` |
