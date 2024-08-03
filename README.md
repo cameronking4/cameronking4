@@ -2,7 +2,7 @@
 Closed-source projects
 | Project (live) | Description | CTA | Technologies |
 | --- | --- | --- | --- |
-| [BuyMyRepo](https://buymyrepo.com) | Easiest way to sell access to your private github repos. Instantly start selling private UI libraries, app clones, starter templates, scripts, etc. for free. | `Download` | `Next14` `Stripe Connect` `Github APIs` |
+| [BuyMyRepo](https://buymyrepo.com) | Easiest way to sell access to your private github repos. Instantly start selling private UI libraries, app clones, starter templates, scripts, etc. for free. | `Try now` | `Next14` `Stripe Connect` `Github APIs` |
 | [PaywallmyGPT](https://paywallmygpt.com) | Easiest way to monetize your custom GPT for publishing in OpenAI's GPT Store | `Download` | `Next14` `OpenAI` |
 | [Sketch2App VS Code Extension](https://marketplace.visualstudio.com/items?itemName=Sketch2App.sketch2app) | Use Sketch2App directly in your VS Code Editor. Create new apps or a new component using the commands.  | `Subscribe` | `Javascript` `OpenAI` |
 | [Qashboard](https://qashboard.com) | AI powered personal finance dashboard, allowing you to get a bird's eye view of all financial accounts. Connect accounts with Plaid and use AI chat to unlock insights into spend, transactions, budget and more. | `Buy here` | `Next14` `MongoDB` `Langchain` `Vercel AI SDK` `Generative UI` `OpenAI`|
