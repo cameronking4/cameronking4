@@ -1,4 +1,4 @@
-## Featured
+## Featured Projects
 
 | Project | Description | Technologies |
 | --- | --- | --- |
@@ -10,7 +10,7 @@
 | [MiMotion Pro](http://mimotionpro.com) | Create and animate 3D avatars using reference videos and view in AR. | Flutter, DeepMotion, Firebase |
 
 
-## Clones
+## Open Source Clones
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [ReplyGuy Clone](https://buzzdaddy.ai) | [BuzzDaddy](https://buzzdaddy.ai) is a low-budget social media advertising tool to automatically post AI-written UGC across Twitter, LinkedIn, and Reddit to promote your business, product, channel, etc. | Next14, OpenAI, Apify, PostgreSQL, Web Scraping |
