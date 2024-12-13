@@ -2,8 +2,8 @@
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [BuyMyRepo](https://buymyrepo.com) | Monetize private GitHub repos by generating a checkout link for your repo that instantly invites purchasees on Github. | Next14, PostgreSQL, Stripe Connect, GitHub API |
-| [GPTEEZY](https://gpteezy.com) | Analyze, Track and Monetize custom GPT users in ChatGPT. | Next14, OpenAI, Stripe Connect |
+| [BuyMyRepo](https://buymyrepo.com)<a href="https://buymyrepo.com/gitgold">| Monetize private GitHub repos by generating a checkout link for your repo that instantly invites purchasees on Github. Project uses `Next14`, `PostgreSQL`, `Stripe Connect`, `GitHub API`, `shadcn`  | <a href="https://buymyrepo.com/gitgold"> <img src="https://buymyrepo.com/badge.svg" alt="BuyMyRepo" height={50} width={200} /></a> |
+| [GPTEEZY](https://gpteezy.com) | Analyze, Track and Monetize custom GPT users in ChatGPT. Project uses `Next14`, `OpenAI`, `Stripe Connect`, `shadcn` | <a href="https://buymyrepo.com/paywallmygpt"> <img src="https://buymyrepo.com/badge.svg" alt="GPTEEZY" height={50} width={200} /></a> |
 | [Xperience Shopping](https://xperienceshopping.io) | AI-driven size-recommendation shopping assistant using virtually captured body measurements. | React, GPT-4, Chrome Extension|
 | [Fridge2Food](https://www.producthunt.com/posts/fridge2food-transform-food-into-meals) | Voted Top 10 on Product Hunt. Generates recipes from a photo of fridge or pantry contents. | React Native, GPT-4 Vision |
 | [#BlackOwned](https://apps.apple.com/us/app/blackowned/id1518900615) | Discover black-owned businesses nearby. | React Native, Firebase |
