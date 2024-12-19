@@ -13,8 +13,8 @@
 ## Open Source Clones
 | Project | Description | Technologies |
 | --- | --- | --- |
-| [ReplyGuy Clone](https://buzzdaddy.ai) | [BuzzDaddy](https://buzzdaddy.ai) is a low-budget social media advertising tool to automatically post AI-written UGC across Twitter, LinkedIn, and Reddit to promote your business, product, channel, etc. | Next14, OpenAI, Apify, PostgreSQL, Web Scraping |
-| [Mint Finance Clone](https://github.com/cameronking4/openai-plaid-finance-dashboard) | AI-powered personal finance dashboard using Plaid integration. Demo here: https://mint-clone.vercel.app/ | Next14, PostgreSQL, OpenAI, Plaid |
+| [ReplyGuy Clone]([https://buzzdaddy.ai](https://github.com/cameronking4/ReplyGuy-clone)) | [BuzzDaddy](https://buzzdaddy.ai) is a low-budget social media advertising tool to automatically post AI-written UGC across Twitter, LinkedIn, and Reddit to promote your business, product, channel, etc. | Next14, OpenAI, Apify, PostgreSQL, Web Scraping |
+| [Mint Finance Clone](https://github.com/cameronking4/openai-plaid-finance-dashboard) | AI-powered personal finance dashboard using Plaid integration. [Demo here](https://mint-clone.vercel.app/) | Next14, PostgreSQL, OpenAI, Plaid |
 | [Greptile Clone](https://github.com/cameronking4/GreptileClone) | Automatically index source code to chat with your Github Repos and complete software engineering tasks. Built using a novel approach of vectorizing a repo's abstract syntax tree. Train your own assistant to autocomplete code based on existing repos. | Javascript, OpenAI, Digital Ocean|
 
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=`true`" width="100%">
