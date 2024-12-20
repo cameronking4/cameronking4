@@ -18,5 +18,3 @@
  | [Fridge2Food](https://www.producthunt.com/posts/fridge2food-transform-food-into-meals) | Voted Top 10 on Product Hunt. Generates recipes from a photo of fridge or pantry contents. | React Native, GPT-4 Vision |
 
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=`true`" width="100%">
-
- [
