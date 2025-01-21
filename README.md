@@ -11,9 +11,7 @@
 
 - **[MiMotion Pro](http://mimotionpro.com)** – Create and animate 3D avatars from reference videos, viewable in AR.  
   *Tech:* `Flutter, DeepMotion, Firebase`
-
----
-
+  
 ## Open Source Projects
 
 - **[ReplyGuy Clone](https://github.com/cameronking4/ReplyGuy-clone)** – Social media advertising tool (BuzzDaddy) posting AI-written UGC across Twitter, LinkedIn, and Reddit.  
@@ -31,6 +29,5 @@
   *Tech:* `React Native, GPT-4 Vision`  
   [Top 10 on Product Hunt](https://www.producthunt.com/posts/fridge2food-transform-food-into-meals)
 
----
 
-![Rainbow Divider](https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=true)
+<img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=true" width="100%">
