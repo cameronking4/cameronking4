@@ -1,5 +1,4 @@
 ## Projects
-
 - **[BuyMyRepo](https://buymyrepo.com)** – Platform for devs to generate checkout links that invite buyers to their GitHub repo.  
   *Tech:* `Next14, PostgreSQL, Stripe Connect, GitHub API, shadcn`  
 
@@ -29,5 +28,6 @@
   *Tech:* `React Native, GPT-4 Vision`  
   [Top 10 on Product Hunt](https://www.producthunt.com/posts/fridge2food-transform-food-into-meals)
 
+## My Favorite [UI Libraries](https://shell-holiday-6a7.notion.site/Awesome-UI-Libraries-Resources-outside-of-shadcn-to-copy-paste-1264371447068070a6a9c4850ec8a7bf?pvs=74)
 
 <img src="https://github.com/AzmSurov/AzmSurov/blob/master/Rainbow.gif?raw=true" width="100%">
