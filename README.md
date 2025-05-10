@@ -1,4 +1,7 @@
 ## Projects
+- **[doable.sh](https://doable.sh)** – Embed AI operators directly in your SaaS to control your users' browser tab for better onboarding and customer support. 
+  *Tech:* `Next15, PostgreSQL, OpenRouter, Stripe`
+  
 - **[BuyMyRepo](https://buymyrepo.com)** – Platform for devs to generate checkout links that invite buyers to their GitHub repo.  
   *Tech:* `Next14, PostgreSQL, Stripe Connect, GitHub API, shadcn`  
 
@@ -13,9 +16,9 @@
   
 ## Open Source Projects
 
-- **[ReplyGuy Clone](https://github.com/cameronking4/ReplyGuy-clone)** – Social media advertising tool (BuzzDaddy) posting AI-written UGC across Twitter, LinkedIn, and Reddit.  
-  *Tech:* `Next14, OpenAI, Apify, PostgreSQL, Web Scraping`  
-  [Visit BuzzDaddy](https://buzzdaddy.ai)
+- **[Vapiblocks](https://vapiblocks.com)** – The React component library for Vapi Web SDK. Samples to copy & paste into your app that animate with voice.  
+  *Tech:* `Next14, Vapi AI`  
+  [Visit Vapi Blocks](https://vapiblocks.com)
 
 - **[Plaid OpenAI Dashboard](https://github.com/cameronking4/openai-plaid-finance-dashboard)** – AI-powered personal finance dashboard with Plaid integration.  
   *Tech:* `Next14, PostgreSQL, OpenAI, Plaid`  
